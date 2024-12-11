@@ -1,0 +1,6 @@
+<resources>
+    <style name="SplashScreenTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/blue_background</item>
+    </style>
+    <style name="Theme.KonkursnoeZadanieKuznetsovPR_22102" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
